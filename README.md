@@ -334,7 +334,7 @@ The project brings together frontend development, REST API design, database pers
 ### 🔗 Project Links
 
 - **Live Demo:** [CareerPilot AI](https://interview-preparation-using-genai.vercel.app)
-- **GitHub Repository:** https://github.com/RajpurohitYespal/careerpilot-ai.git
+- **GitHub Repository:** https://github.com/RajpurohitYespal/Careerpilot-AI.git
 - **Developer:** Yashpal Rajpurohit
 
 ---
